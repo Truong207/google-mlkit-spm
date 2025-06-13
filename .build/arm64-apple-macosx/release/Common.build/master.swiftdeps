@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "bec787b1e0dcf75b3fba1f8a8741730cc5fe6e8e6f4df1b317dc833f96f72fc5"
+build_start_time: [1749799850, 108189000]
+build_end_time: [1749799850, 224590000]
+inputs:
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/Sources/Common/export.swift": !dirty [1749721213, 103678272]

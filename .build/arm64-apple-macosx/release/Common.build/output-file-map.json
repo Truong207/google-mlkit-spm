@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/Common.d",
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/Common.o",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/master.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/Sources/Common/export.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/export.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/export~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/export.swiftdeps"
+  }
+}

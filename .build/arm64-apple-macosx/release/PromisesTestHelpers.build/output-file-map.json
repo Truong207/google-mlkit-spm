@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestHelpers.d",
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestHelpers.o",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/master.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/PromisesTestHelpers/PromisesTestHelpers.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestHelpers.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestHelpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestHelpers.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/PromisesTestHelpers/PromisesTestInteroperability.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestInteroperability.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestInteroperability~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestInteroperability.swiftdeps"
+  }
+}

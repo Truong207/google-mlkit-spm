@@ -1,0 +1,4 @@
+module GoogleUtilities_Network {
+    umbrella "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Network/Public"
+    export *
+}

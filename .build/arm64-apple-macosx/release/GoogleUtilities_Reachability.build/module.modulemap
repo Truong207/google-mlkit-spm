@@ -1,0 +1,4 @@
+module GoogleUtilities_Reachability {
+    umbrella "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Reachability/Public"
+    export *
+}

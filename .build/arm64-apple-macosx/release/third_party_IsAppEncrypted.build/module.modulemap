@@ -1,0 +1,4 @@
+module third_party_IsAppEncrypted {
+    umbrella "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/third_party/IsAppEncrypted/Public"
+    export *
+}

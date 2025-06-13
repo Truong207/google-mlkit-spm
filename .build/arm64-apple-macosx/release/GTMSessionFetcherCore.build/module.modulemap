@@ -1,0 +1,4 @@
+module GTMSessionFetcherCore {
+    umbrella "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/gtm-session-fetcher/Sources/Core/Public"
+    export *
+}

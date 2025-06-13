@@ -1,0 +1,4 @@
+module GoogleDataTransport {
+    umbrella header "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GoogleDataTransport.h"
+    export *
+}

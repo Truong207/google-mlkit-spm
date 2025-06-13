@@ -1,0 +1,4 @@
+module Promises {
+    header "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promises-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module Common {
+    header "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/Common-Swift.h"
+    requires objc
+}

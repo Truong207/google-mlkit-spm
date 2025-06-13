@@ -1,0 +1,1798 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/gtm-session-fetcher/Sources/Core/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcher_GTMSessionFetcherFull.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/gtm-session-fetcher/Sources/Full/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcher_GTMSessionFetcherFull.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcher_GTMSessionFetcherLogView.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/gtm-session-fetcher/Sources/LogView/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcher_GTMSessionFetcherLogView.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport_GoogleDataTransport.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleDataTransport/GoogleDataTransport/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport_GoogleDataTransport.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Environment/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-ISASwizzler.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/ISASwizzler/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-ISASwizzler.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Logger/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/MethodSwizzler/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/NSData+zlib/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Network/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Reachability/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-UserDefaults.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/UserDefaults/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_GoogleUtilities-UserDefaults.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises_Promises.bundle/PrivacyInfo.xcprivacy" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Resources/PrivacyInfo.xcprivacy"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises_Promises.bundle/PrivacyInfo.xcprivacy"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.Common-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/sources",
+      "importPath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/Sources/Common/export.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_AppDelegateSwizzler.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_AppDelegateSwizzler.build/GULAppDelegateSwizzler.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_AppDelegateSwizzler.build/GULSceneDelegateSwizzler.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Environment.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Environment.build/GULAppEnvironmentUtil.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Environment.build/GULHeartbeatDateStorage.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Environment.build/GULHeartbeatDateStorageUserDefaults.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Environment.build/GULSecureCoding.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Environment.build/NetworkInfo/GULNetworkInfo.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Environment.build/SecureStorage/GULKeychainStorage.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Environment.build/SecureStorage/GULKeychainUtils.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Environment.build/URLSessionPromiseWrapper/GULURLSessionDataResponse.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Environment.build/URLSessionPromiseWrapper/NSURLSession+GULPromises.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_ISASwizzler.build/GULObjectSwizzler.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_ISASwizzler.build/GULSwizzledObject.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_ISASwizzler.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Logger.build/GULLogger.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Logger.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_MethodSwizzler.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_MethodSwizzler.build/GULSwizzler.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_NSData.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_NSData.build/GULNSData+zlib.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Network.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Network.build/GULMutableDictionary.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Network.build/GULNetwork.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Network.build/GULNetworkConstants.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Network.build/GULNetworkURLSession.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Reachability.build/GULReachabilityChecker.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Reachability.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_UserDefaults.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_UserDefaults.build/GULUserDefaults.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherCore.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherCore.build/GTMSessionFetcher.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherCore.build/GTMSessionFetcherLogging.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherCore.build/GTMSessionFetcherService.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherCore.build/GTMSessionUploadFetcher.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherFull.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherFull.build/GTMGatherInputStream.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherFull.build/GTMMIMEDocument.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherFull.build/GTMReadMonitorInputStream.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCCTLibrary/GDTCCTCompressionHelper.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCCTLibrary/GDTCCTNanopbHelpers.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCCTLibrary/GDTCCTUploadOperation.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCCTLibrary/GDTCCTUploader.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCCTLibrary/GDTCOREvent+GDTCCTSupport.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCCTLibrary/GDTCOREvent+GDTMetricsSupport.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCCTLibrary/GDTCORMetrics+GDTCCTSupport.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCCTLibrary/Protogen/nanopb/cct.nanopb.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCCTLibrary/Protogen/nanopb/client_metrics.nanopb.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCCTLibrary/Protogen/nanopb/compliance.nanopb.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCCTLibrary/Protogen/nanopb/external_prequest_context.nanopb.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCCTLibrary/Protogen/nanopb/external_privacy_context.nanopb.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORAssert.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORClock.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORConsoleLogger.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORDirectorySizeTracker.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCOREndpoints.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCOREvent.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORFlatFileStorage+Promises.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORFlatFileStorage.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORLifecycle.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORLogSourceMetrics.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORMetrics.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORMetricsController.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORMetricsMetadata.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORPlatform.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORProductData.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORReachability.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORRegistrar.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORStorageEventSelector.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORStorageMetadata.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORTransformer.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORTransport.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORUploadBatch.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/GDTCORLibrary/GDTCORUploadCoordinator.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/nanopb.build/pb_common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/nanopb.build/pb_decode.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/nanopb.build/pb_encode.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+All.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Always.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Any.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Async.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Await.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Catch.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Delay.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Do.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Race.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Recover.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Reduce.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Retry.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Testing.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Then.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Timeout.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Validate.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Wrap.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromiseError.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Common",
+      "moduleOutputPath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules/Common.swiftmodule",
+      "objects" : [
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/export.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-O",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/nanopb.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/nanopb/spm_headers",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherFull.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/gtm-session-fetcher/Sources/Full/Public",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherCore.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/gtm-session-fetcher/Sources/Core/Public",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_UserDefaults.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/UserDefaults/Public",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_MethodSwizzler.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/MethodSwizzler/Public",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_ISASwizzler.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/ISASwizzler/Public",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_AppDelegateSwizzler.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Network.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Network/Public",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Reachability.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Reachability/Public",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_NSData.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/NSData+zlib/Public",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Logger.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Logger/Public",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Environment.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Environment/Public",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/include",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/third_party_IsAppEncrypted.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/third_party/IsAppEncrypted/Public",
+        "-module-cache-path",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/Common-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g"
+      ],
+      "outputFileMapPath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/export.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules/Common.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/Sources/Common/export.swift"
+      ],
+      "tempsPath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.Promises-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/sources",
+      "importPath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+All.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Always.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Any.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Async.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Await.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Catch.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Delay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Do.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Race.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Recover.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Reduce.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Retry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Testing.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Then.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Timeout.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Validate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Wrap.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/PromiseError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<Promises-arm64-apple-macosx15.0-release.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/resource_bundle_accessor.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+All.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Always.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Any.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Async.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Await.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Catch.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Delay.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Do.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Race.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Recover.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Reduce.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Retry.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Testing.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Then.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Timeout.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Validate.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise+Wrap.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromise.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/FBLPromises.build/FBLPromiseError.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Promises",
+      "moduleOutputPath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules/Promises.swiftmodule",
+      "objects" : [
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+All.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Always.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Any.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Async.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Await.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Catch.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Delay.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Do.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Race.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Recover.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Reduce.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Retry.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Testing.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Then.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Timeout.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Validate.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Wrap.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/PromiseError.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-O",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/include",
+        "-module-cache-path",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promises-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-suppress-warnings"
+      ],
+      "outputFileMapPath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+All.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Always.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Any.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Async.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Await.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Catch.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Delay.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Do.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Race.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Recover.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Reduce.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Retry.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Testing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Then.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Timeout.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Validate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Wrap.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/PromiseError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules/Promises.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+All.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Always.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Any.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Async.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Await.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Catch.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Delay.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Do.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Race.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Recover.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Reduce.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Retry.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Testing.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Then.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Timeout.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Validate.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Wrap.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/PromiseError.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.PromisesTestHelpers-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/sources",
+      "importPath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/PromisesTestHelpers/PromisesTestHelpers.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/PromisesTestHelpers/PromisesTestInteroperability.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules/Promises.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PromisesTestHelpers",
+      "moduleOutputPath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules/PromisesTestHelpers.swiftmodule",
+      "objects" : [
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestHelpers.swift.o",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestInteroperability.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-O",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/include",
+        "-module-cache-path",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestHelpers-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-suppress-warnings"
+      ],
+      "outputFileMapPath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestHelpers.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestInteroperability.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules/PromisesTestHelpers.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/PromisesTestHelpers/PromisesTestHelpers.swift",
+        "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/PromisesTestHelpers/PromisesTestInteroperability.swift"
+      ],
+      "tempsPath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "Common" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Common",
+      "-whole-module-optimization",
+      "-num-threads",
+      "8",
+      "-c",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/Sources/Common/export.swift",
+      "-I",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-O",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleDataTransport.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/nanopb.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/nanopb/spm_headers",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherFull.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/gtm-session-fetcher/Sources/Full/Public",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GTMSessionFetcherCore.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/gtm-session-fetcher/Sources/Core/Public",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_UserDefaults.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/UserDefaults/Public",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_MethodSwizzler.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/MethodSwizzler/Public",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_ISASwizzler.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/ISASwizzler/Public",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_AppDelegateSwizzler.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Network.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Network/Public",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Reachability.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Reachability/Public",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_NSData.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/NSData+zlib/Public",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Logger.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Logger/Public",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilities_Environment.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Environment/Public",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/include/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/include",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/third_party_IsAppEncrypted.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/third_party/IsAppEncrypted/Public",
+      "-module-cache-path",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/Common-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "Promises" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Promises",
+      "-whole-module-optimization",
+      "-num-threads",
+      "8",
+      "-c",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+All.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Always.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Any.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Async.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Await.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Catch.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Delay.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Do.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Race.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Recover.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Reduce.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Retry.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Testing.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Then.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Timeout.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Validate.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Wrap.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/PromiseError.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-O",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/include/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/include",
+      "-module-cache-path",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promises-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "PromisesTestHelpers" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "PromisesTestHelpers",
+      "-whole-module-optimization",
+      "-num-threads",
+      "8",
+      "-c",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/PromisesTestHelpers/PromisesTestHelpers.swift",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/PromisesTestHelpers/PromisesTestInteroperability.swift",
+      "-I",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-O",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/include/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/FBLPromises/include",
+      "-module-cache-path",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestHelpers-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "Common" : [
+      "GoogleDataTransport",
+      "nanopb",
+      "GTMSessionFetcherFull",
+      "GTMSessionFetcherCore",
+      "GoogleUtilities_UserDefaults",
+      "GoogleUtilities_MethodSwizzler",
+      "GoogleUtilities_ISASwizzler",
+      "GoogleUtilities_AppDelegateSwizzler",
+      "GoogleUtilities_Network",
+      "GoogleUtilities_Reachability",
+      "GoogleUtilities_NSData",
+      "GoogleUtilities_Logger",
+      "GoogleUtilities_Environment",
+      "FBLPromises",
+      "third_party_IsAppEncrypted",
+      "Protobuf",
+      "GoogleUtilitiesComponents",
+      "GoogleToolboxForMac",
+      "MLKitCommon"
+    ],
+    "FBLPromises" : [
+
+    ],
+    "FBLPromisesTestHelpers" : [
+      "FBLPromises"
+    ],
+    "GTMSessionFetcherCore" : [
+
+    ],
+    "GTMSessionFetcherFull" : [
+      "GTMSessionFetcherCore"
+    ],
+    "GTMSessionFetcherLogView" : [
+      "GTMSessionFetcherCore"
+    ],
+    "GoogleDataTransport" : [
+      "GoogleUtilities_Environment",
+      "third_party_IsAppEncrypted",
+      "FBLPromises",
+      "nanopb"
+    ],
+    "GoogleUtilities_AppDelegateSwizzler" : [
+      "GoogleUtilities_Network",
+      "GoogleUtilities_Reachability",
+      "GoogleUtilities_NSData",
+      "GoogleUtilities_Logger",
+      "GoogleUtilities_Environment",
+      "FBLPromises",
+      "third_party_IsAppEncrypted"
+    ],
+    "GoogleUtilities_Environment" : [
+      "FBLPromises",
+      "third_party_IsAppEncrypted"
+    ],
+    "GoogleUtilities_ISASwizzler" : [
+      "GoogleUtilities_Logger",
+      "GoogleUtilities_Environment",
+      "FBLPromises",
+      "third_party_IsAppEncrypted"
+    ],
+    "GoogleUtilities_Logger" : [
+      "GoogleUtilities_Environment",
+      "FBLPromises",
+      "third_party_IsAppEncrypted"
+    ],
+    "GoogleUtilities_MethodSwizzler" : [
+      "GoogleUtilities_Logger",
+      "GoogleUtilities_Environment",
+      "FBLPromises",
+      "third_party_IsAppEncrypted"
+    ],
+    "GoogleUtilities_NSData" : [
+
+    ],
+    "GoogleUtilities_Network" : [
+      "GoogleUtilities_Reachability",
+      "GoogleUtilities_NSData",
+      "GoogleUtilities_Logger",
+      "GoogleUtilities_Environment",
+      "FBLPromises",
+      "third_party_IsAppEncrypted"
+    ],
+    "GoogleUtilities_Reachability" : [
+      "GoogleUtilities_Logger",
+      "GoogleUtilities_Environment",
+      "FBLPromises",
+      "third_party_IsAppEncrypted"
+    ],
+    "GoogleUtilities_SwizzlerTestHelpers" : [
+      "GoogleUtilities_MethodSwizzler",
+      "GoogleUtilities_Logger",
+      "GoogleUtilities_Environment",
+      "FBLPromises",
+      "third_party_IsAppEncrypted"
+    ],
+    "GoogleUtilities_UserDefaults" : [
+      "GoogleUtilities_Logger",
+      "GoogleUtilities_Environment",
+      "FBLPromises",
+      "third_party_IsAppEncrypted"
+    ],
+    "Promises" : [
+      "FBLPromises"
+    ],
+    "PromisesTestHelpers" : [
+      "Promises",
+      "FBLPromises"
+    ],
+    "nanopb" : [
+
+    ],
+    "third_party_IsAppEncrypted" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "writeCommands" : {
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/Sources/Common/export.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Common.build/sources"
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+All.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Always.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Any.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Async.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Await.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Catch.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Delay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Do.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Race.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Recover.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Reduce.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Retry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Testing.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Then.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Timeout.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Validate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Wrap.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/PromiseError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/sources"
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/PromisesTestHelpers/PromisesTestHelpers.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/PromisesTestHelpers/PromisesTestInteroperability.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/sources"
+    },
+    "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

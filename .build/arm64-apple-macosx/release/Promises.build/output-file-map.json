@@ -1,0 +1,107 @@
+{
+  "": {
+    "dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promises.d",
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promises.o",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/master.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+All.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+All.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+All~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+All.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Always.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Always.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Always~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Always.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Any.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Any.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Any~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Any.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Async.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Async.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Async~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Async.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Await.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Await.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Await~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Await.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Catch.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Catch.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Catch~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Catch.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Delay.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Delay.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Delay~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Delay.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Do.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Do.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Do~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Do.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Race.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Race.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Race~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Race.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Recover.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Recover.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Recover~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Recover.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Reduce.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Reduce.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Reduce~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Reduce.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Retry.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Retry.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Retry~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Retry.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Testing.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Testing.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Testing~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Testing.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Then.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Then.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Then~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Then.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Timeout.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Timeout.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Timeout~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Timeout.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Validate.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Validate.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Validate~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Validate.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise+Wrap.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Wrap.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Wrap~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise+Wrap.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/Promise.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/Promise.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/promises/Sources/Promises/PromiseError.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/PromiseError.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/PromiseError~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/PromiseError.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/DerivedSources/resource_bundle_accessor.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/Promises.build/resource_bundle_accessor.swiftdeps"
+  }
+}

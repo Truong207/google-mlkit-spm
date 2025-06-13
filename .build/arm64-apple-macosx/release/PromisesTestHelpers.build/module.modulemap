@@ -1,0 +1,4 @@
+module PromisesTestHelpers {
+    header "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/PromisesTestHelpers.build/PromisesTestHelpers-Swift.h"
+    requires objc
+}
