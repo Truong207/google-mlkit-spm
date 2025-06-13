@@ -47,11 +47,6 @@ let package = Package(
         "https://github.com/d-date/google-mlkit-swiftpm/releases/download/6.0.0/MLKitVision.xcframework.zip",
       checksum: "583d90ede764dedaf38f9422f804beed9b4bd006f5d4d6f9738a0cfaca00b60c"),
     .binaryTarget(
-      name: "GoogleToolboxForMac",
-      url:
-        "https://github.com/d-date/google-mlkit-swiftpm/releases/download/6.0.0/GoogleToolboxForMac.xcframework.zip",
-      checksum: "edf443ff28f9e4c28998871d2bd11654f43de2e8e81b645ecb7de14d9d79fc96"),
-    .binaryTarget(
       name: "GoogleUtilitiesComponents",
       url:
         "https://github.com/d-date/google-mlkit-swiftpm/releases/download/6.0.0/GoogleUtilitiesComponents.xcframework.zip",
@@ -60,7 +55,6 @@ let package = Package(
       name: "Common",
       dependencies: [
         "MLKitCommon",
-        "GoogleToolboxForMac",
         "GoogleUtilitiesComponents",
         .product(name: "GULAppDelegateSwizzler", package: "GoogleUtilities"),
         .product(name: "GULEnvironment", package: "GoogleUtilities"),
