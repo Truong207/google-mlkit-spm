@@ -1,0 +1,4 @@
+module GoogleUtilitiesPrivacy {
+    header "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilitiesPrivacy.build/GoogleUtilitiesPrivacy-Swift.h"
+    requires objc
+}

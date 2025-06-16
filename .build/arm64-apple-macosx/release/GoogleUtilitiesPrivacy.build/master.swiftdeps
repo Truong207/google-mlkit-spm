@@ -1,0 +1,8 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "a08247e3fd54399c001d59dba09d98ee88f67704042da702847096734a6d616e"
+build_start_time: [1750057499, 592972000]
+build_end_time: [1750057501, 789533000]
+inputs:
+  ? "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilitiesPrivacy.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1750057499, 165841344]
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Privacy/Empty.swift": [1750057498, 609556917]

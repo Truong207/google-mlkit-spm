@@ -1,38 +1,41 @@
-# Google MLKit SwiftPM Wrapper
+# Google MLKit for Swift Package Manager
 
-This is experimental project for building MLKit in Swift Package Manager.
+> This repo is used for generate SPM support for Google MLKit lib, which currently is only available on CocoaPods.
 
-## Requirements
+# Instructions
 
-- iOS 14 and later
-- Xcode 13.2.1 and later
+## Auto from GitHub actions:
+Just update `target-version.txt` and push new changes, GitHub action will run and create new release with attached xcframeworks.
 
-## Installation
+View `.github/workflows/release.yml` for more information.
 
-### Use Swift Package Manager to install
+## Manual
 
-```swift
-    .package(url: "https://github.com/d-date/google-mlkit-swiftpm", from: "5.0.0")
+### Clone repo includes submodule:
+
+```sh
+$ git clone --recurse-submodules <repo_url>
 ```
 
-### Add Linker flags
+### Install Google MLKit pods (using bundler or global `pod`)
 
-Add these flags to `Other Linker Flags` in Build Settings of your Xcode projects.
+```sh
+$ bundle install
+$ (cd PodsProject && bundle exec pod install)
+```
 
-- `-ObjC`
-- `-all_load`
+### Run script to build and create xcframeworks
 
-### Link `.bundle` to your project
+```sh
+$ ./scripts/create-xcframeworks.sh
+```
 
-The `MLKitFaceDetection` contains `GoogleMVFaceDetectorResources.bundle`. Since the bundle can't be introduced via Swift PM, you need to link to your project by yourself.
+> This script will:
+> - Build source-based libs then create xcframeworks for them (GoogleToolboxForMac, GoogleUtilitiesComponents, Protobuf)
+> - Use `xcframework-maker` to split prebuilt frameworks to xcframeworks (MLImage, MLKitCommon, MLKitBarcodeScanning,...)
+> - Compress xcframeworks as zips and generate SHA256 to use in `Package.swift`
 
-Download `GoogleMVFaceDetectorResources.bundle` from [Release](https://github.com/d-date/google-mlkit-swiftpm/releases/download/3.2.0/GoogleMVFaceDetectorResources.bundle.zip) and add to your Xcode project and make it available in your build target.
-
-## Limitation
-
-- Since pre-built MLKit binary missing `arm64` for iphonesimulator, this project enables to build in `arm64` for iphoneos and `x86_64` for iphonesimulator only.
-- Only supported `Face Detection` and `Barcode Scanning` right now.
-
-## Example
-
-Open `Example/Example.xcworkspace` and fixing code signing to yours.
+### Create a new release
+- Update `Package.swift` to change `.binaryTarget` url paths and checksums
+- Create new release and attach xcframework zips to the release
+- If your git hosting service does not provide release attachments, then you can upload zips somewhere and use those urls instead.

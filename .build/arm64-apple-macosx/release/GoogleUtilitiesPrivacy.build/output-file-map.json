@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilitiesPrivacy.build/GoogleUtilitiesPrivacy.d",
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilitiesPrivacy.build/GoogleUtilitiesPrivacy.o",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilitiesPrivacy.build/master.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/checkouts/GoogleUtilities/GoogleUtilities/Privacy/Empty.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilitiesPrivacy.build/Empty.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilitiesPrivacy.build/Empty~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilitiesPrivacy.build/Empty.swiftdeps"
+  },
+  "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilitiesPrivacy.build/DerivedSources/resource_bundle_accessor.swift": {
+    "object": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilitiesPrivacy.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilitiesPrivacy.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/arm64-apple-macosx/release/GoogleUtilitiesPrivacy.build/resource_bundle_accessor.swiftdeps"
+  }
+}
