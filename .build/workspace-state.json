@@ -9,6 +9,22 @@
           "location" : "/Users/sapo/Data/truongdv/google-mlkit-spm",
           "name" : "google-mlkit-spm"
         },
+        "path" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/artifacts/google-mlkit-spm/GoogleToolboxForMac/GoogleToolboxForMac.xcframework",
+        "source" : {
+          "checksum" : "d7f2011e77f8187bda6a6960353b2c9018e5d0b93b759f1b4d27547e27f86712",
+          "type" : "remote",
+          "url" : "https://github.com/Truong207/google-mlkit-spm/releases/download/1.1.2/GoogleToolboxForMac.xcframework.zip"
+        },
+        "targetName" : "GoogleToolboxForMac"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "google-mlkit-spm",
+          "kind" : "root",
+          "location" : "/Users/sapo/Data/truongdv/google-mlkit-spm",
+          "name" : "google-mlkit-spm"
+        },
         "path" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/artifacts/google-mlkit-spm/MLImage/MLImage.xcframework",
         "source" : {
           "checksum" : "7c09d37bf4893f751cce8f326d8c53518be11e4d7af0f45e51822747f2185a2c",
@@ -16,38 +32,6 @@
           "url" : "https://github.com/kientux/google-mlkit-spm/releases/download/0.0.2/MLImage.xcframework.zip"
         },
         "targetName" : "MLImage"
-      },
-      {
-        "kind" : "xcframework",
-        "packageRef" : {
-          "identity" : "google-mlkit-spm",
-          "kind" : "root",
-          "location" : "/Users/sapo/Data/truongdv/google-mlkit-spm",
-          "name" : "google-mlkit-spm"
-        },
-        "path" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/artifacts/google-mlkit-spm/MLKitCommon/MLKitCommon.xcframework",
-        "source" : {
-          "checksum" : "902ef4d7d13aee7eaf23126f6f0e48e1abd3e5c183279c731ad8565f2b18d809",
-          "type" : "remote",
-          "url" : "https://github.com/kientux/google-mlkit-spm/releases/download/0.0.2/MLKitCommon.xcframework.zip"
-        },
-        "targetName" : "MLKitCommon"
-      },
-      {
-        "kind" : "xcframework",
-        "packageRef" : {
-          "identity" : "google-mlkit-spm",
-          "kind" : "root",
-          "location" : "/Users/sapo/Data/truongdv/google-mlkit-spm",
-          "name" : "google-mlkit-spm"
-        },
-        "path" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/artifacts/google-mlkit-spm/GoogleToolboxForMac/GoogleToolboxForMac.xcframework",
-        "source" : {
-          "checksum" : "895fea05c555c16a4d60823a8f831e9b176b6cb7982e5c35b7e547000c31e476",
-          "type" : "remote",
-          "url" : "https://github.com/kientux/google-mlkit-spm/releases/download/0.0.2/GoogleToolboxForMac.xcframework.zip"
-        },
-        "targetName" : "GoogleToolboxForMac"
       },
       {
         "kind" : "xcframework",
@@ -73,13 +57,13 @@
           "location" : "/Users/sapo/Data/truongdv/google-mlkit-spm",
           "name" : "google-mlkit-spm"
         },
-        "path" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/artifacts/google-mlkit-spm/Protobuf/Protobuf.xcframework",
+        "path" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/artifacts/google-mlkit-spm/MLKitVision/MLKitVision.xcframework",
         "source" : {
-          "checksum" : "0763056b2562a5c3e7df6bb2670f2a6dc676a2e36aebec68120fbf5c48423b07",
+          "checksum" : "9fdd41e976bb130d1b1656821be3feaf0a8d27b6b35c7852f5efe0aced72183f",
           "type" : "remote",
-          "url" : "https://github.com/kientux/google-mlkit-spm/releases/download/0.0.2/Protobuf.xcframework.zip"
+          "url" : "https://github.com/kientux/google-mlkit-spm/releases/download/0.0.2/MLKitVision.xcframework.zip"
         },
-        "targetName" : "Protobuf"
+        "targetName" : "MLKitVision"
       },
       {
         "kind" : "xcframework",
@@ -91,9 +75,9 @@
         },
         "path" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/artifacts/google-mlkit-spm/GoogleUtilitiesComponents/GoogleUtilitiesComponents.xcframework",
         "source" : {
-          "checksum" : "974d502ac7565b210acdc4d5b46cb41dec513c4b1705e6f946c82ee93d0bae19",
+          "checksum" : "cfc72a70c2a4da2d68e5d35c9a08e28c27ae3a7ce05b19a30eb333e4dff2e2d4",
           "type" : "remote",
-          "url" : "https://github.com/kientux/google-mlkit-spm/releases/download/0.0.2/GoogleUtilitiesComponents.xcframework.zip"
+          "url" : "https://github.com/Truong207/google-mlkit-spm/releases/download/1.1.2/GoogleUtilitiesComponents.xcframework.zip"
         },
         "targetName" : "GoogleUtilitiesComponents"
       },
@@ -105,13 +89,29 @@
           "location" : "/Users/sapo/Data/truongdv/google-mlkit-spm",
           "name" : "google-mlkit-spm"
         },
-        "path" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/artifacts/google-mlkit-spm/MLKitVision/MLKitVision.xcframework",
+        "path" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/artifacts/google-mlkit-spm/MLKitCommon/MLKitCommon.xcframework",
         "source" : {
-          "checksum" : "9fdd41e976bb130d1b1656821be3feaf0a8d27b6b35c7852f5efe0aced72183f",
+          "checksum" : "902ef4d7d13aee7eaf23126f6f0e48e1abd3e5c183279c731ad8565f2b18d809",
           "type" : "remote",
-          "url" : "https://github.com/kientux/google-mlkit-spm/releases/download/0.0.2/MLKitVision.xcframework.zip"
+          "url" : "https://github.com/kientux/google-mlkit-spm/releases/download/0.0.2/MLKitCommon.xcframework.zip"
         },
-        "targetName" : "MLKitVision"
+        "targetName" : "MLKitCommon"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "google-mlkit-spm",
+          "kind" : "root",
+          "location" : "/Users/sapo/Data/truongdv/google-mlkit-spm",
+          "name" : "google-mlkit-spm"
+        },
+        "path" : "/Users/sapo/Data/truongdv/google-mlkit-spm/.build/artifacts/google-mlkit-spm/Protobuf/Protobuf.xcframework",
+        "source" : {
+          "checksum" : "9fe69802f87a25e9b4706eecd3c11ac1a8d2d6fcc9cd90678b1ad7e458b3e864",
+          "type" : "remote",
+          "url" : "https://github.com/Truong207/google-mlkit-spm/releases/download/1.1.2/Protobuf.xcframework.zip"
+        },
+        "targetName" : "Protobuf"
       }
     ],
     "dependencies" : [
