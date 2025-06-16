@@ -19,13 +19,13 @@ let package = Package(
     ],
     targets: [
         // these binaryTarget will be overriden when GitHub actions run, so do not edit
-        .binaryTarget(name: "MLImage", url: "https://github.com/Truong207/google-mlkit-spm/releases/download//MLImage.xcframework.zip", checksum: ""),
-        .binaryTarget(name: "MLKitBarcodeScanning", url: "https://github.com/Truong207/google-mlkit-spm/releases/download//MLKitBarcodeScanning.xcframework.zip", checksum: ""),
-        .binaryTarget(name: "MLKitCommon", url: "https://github.com/Truong207/google-mlkit-spm/releases/download//MLKitCommon.xcframework.zip", checksum: ""),
-        .binaryTarget(name: "MLKitVision", url: "https://github.com/Truong207/google-mlkit-spm/releases/download//MLKitVision.xcframework.zip", checksum: ""),
-        .binaryTarget(name: "GoogleToolboxForMac", url: "https://github.com/Truong207/google-mlkit-spm/releases/download//GoogleToolboxForMac.xcframework.zip", checksum: "e3da98a5aff463afbda77b70c0b382d0366dbcb3fc89e4ab979bce7c5fd412f1"),
-        .binaryTarget(name: "GoogleUtilitiesComponents", url: "https://github.com/Truong207/google-mlkit-spm/releases/download//GoogleUtilitiesComponents.xcframework.zip", checksum: "69653f38f45dd33741271e9c5855910aef4218107cbd0ee0342eb03522fde0ba"),
-        .binaryTarget(name: "Protobuf", url: "https://github.com/Truong207/google-mlkit-spm/releases/download//Protobuf.xcframework.zip", checksum: "703010112fe56992c387943e4d2e648bfb1f04f7bf39a920e43c78391525f53e"),
+        .binaryTarget(name: "MLImage", url: "https://github.com/Truong207/google-mlkit-spm/releases/download/1.1.0//MLImage.xcframework.zip", checksum: "sha256:7c09d37bf4893f751cce8f326d8c53518be11e4d7af0f45e51822747f2185a2c"),
+        .binaryTarget(name: "MLKitBarcodeScanning", url: "https://github.com/Truong207/google-mlkit-spm/releases/download/1.1.0//MLKitBarcodeScanning.xcframework.zip", checksum: "sha256:8ed5acba6485f9ba42cd594dc3e93b470fe4f7149578f2cac515087e20b519fa"),
+        .binaryTarget(name: "MLKitCommon", url: "https://github.com/Truong207/google-mlkit-spm/releases/download/1.1.0//MLKitCommon.xcframework.zip", checksum: "sha256:902ef4d7d13aee7eaf23126f6f0e48e1abd3e5c183279c731ad8565f2b18d809"),
+        .binaryTarget(name: "MLKitVision", url: "https://github.com/Truong207/google-mlkit-spm/releases/download/1.1.0//MLKitVision.xcframework.zip", checksum: "sha256:9fdd41e976bb130d1b1656821be3feaf0a8d27b6b35c7852f5efe0aced72183f"),
+        .binaryTarget(name: "GoogleToolboxForMac", url: "https://github.com/Truong207/google-mlkit-spm/releases/download/1.1.0/GoogleToolboxForMac.xcframework.zip", checksum: "sha256:d7f2011e77f8187bda6a6960353b2c9018e5d0b93b759f1b4d27547e27f86712"),
+        .binaryTarget(name: "GoogleUtilitiesComponents", url: "https://github.com/Truong207/google-mlkit-spm/releases/download/1.1.0/GoogleUtilitiesComponents.xcframework.zip", checksum: "sha256:cfc72a70c2a4da2d68e5d35c9a08e28c27ae3a7ce05b19a30eb333e4dff2e2d4"),
+        .binaryTarget(name: "Protobuf", url: "https://github.com/Truong207/google-mlkit-spm/releases/download/1.1.0//Protobuf.xcframework.zip", checksum: "sha256:9fe69802f87a25e9b4706eecd3c11ac1a8d2d6fcc9cd90678b1ad7e458b3e864"),
         .target(
             name: "Common",
             dependencies: [
